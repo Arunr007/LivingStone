@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+  font-family: forte;
+  src:url(./fonts/FORTE.woff);
+}
+
+ .iimage{  background-image:url(../image/background.jpg);
+	   width:100%; 
+           height:243px;
+           background-repeat:repeat-x;
+           text-indent:-999px; 
+
+      }
+h1{
+	font-family:forte;
+	font-size:46px;
+	text-align: left;
+	}	  
+.navbar-brand{font-family:forte;}	
+
+.btn-default{float:right;} 
+	  
+	  
+
